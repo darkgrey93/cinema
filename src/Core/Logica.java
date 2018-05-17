@@ -41,8 +41,8 @@ public class Logica {
         }catch(Exception ex){
             System.out.println("Registro fallido");   
         }
-        
-        
+    return true;    
+     
     }
         
         
